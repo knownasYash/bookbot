@@ -1,1 +1,1 @@
-# bookbot is my first git project
+Book Bot is a Python program that can analyze an entire book's text and print out an interesting statistical report. The program can be used to analyze the frequency of words, phrases, and sentences in a book. It can also be used to analyze the sentiment of a book by analyzing the frequency of positive and negative words in the text.
